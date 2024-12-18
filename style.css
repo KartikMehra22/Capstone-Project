@@ -62,18 +62,7 @@ body {
 }
 .b{
     font-family: 'Cutive',serif;
-}
-/* .gallery-container{
-    margin-top:7rem;
-    margin-left: 2rem;
-    display: grid;
-    grid-template-columns: repeat(3,1fr);
-    gap: 1rem;
-    width: Fill (1,344px)px;
-    height: Hug (1,191px)px;
-    border: 0px 0px 1px 0px;
-    
-    
+}   
 } */
  .gallery-container{
     margin-top:96px;
@@ -102,9 +91,6 @@ body {
     text-align: left;
     font-family: 'Cutive',serif;
 }
-
-
-
 .end {
     padding: 6.67vw 1.67vw;  
     text-align: center;
