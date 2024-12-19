@@ -57,19 +57,13 @@ body {
     margin: 0 auto;
     object-fit: cover;
 }
-.a{
-    font-family: 'Cutive',serif;
-}
-.b{
-    font-family: 'Cutive',serif;
-}   
-} */
- .gallery-container{
+
+.gallery-container{
     margin-top:96px;
     display: flex;
-    flex-wrap: wrap;
-    justify-content: space-evenly;
-    gap:3px;
+    flex-wrap:wrap;
+    justify-content: center;
+    gap:2vw;
  }
 .gallery-pic{
     max-width: 100%;
@@ -79,7 +73,13 @@ body {
     border: 1px;
     color: #1B221B;
 }
-
+.a{
+    font-family: 'Cutive',serif;
+}
+.b{
+    font-family: 'Cutive',serif;
+}   
+}
 .main-area {
     padding: 6.67vw 15vw;  
 }
